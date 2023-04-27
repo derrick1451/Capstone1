@@ -108,8 +108,8 @@ a {
   background-image: url(/assets/mobile.jpg);
   color: transparent;
   background-size: cover;
+  background-clip: border-box;
   -webkit-background-clip: text;
-  background-clip: inherit;
   margin: 0.3rem 0;
 }
 
@@ -315,7 +315,7 @@ footer {
 
   .d-nav a {
     color: #585858;
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 
   .nav-item {
@@ -328,7 +328,7 @@ footer {
   }
 
   .nav-item li {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     color: #fff;
   }
 
@@ -391,6 +391,7 @@ footer {
     display: flex;
     color: #ec5242;
     font-weight: bold;
+    font-size: 2rem;
   }
 
   /* hero section */

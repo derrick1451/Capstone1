@@ -321,7 +321,7 @@ footer {
   }
 
   .nav-item li {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     color: #fff;
   }
 
@@ -384,6 +384,7 @@ footer {
     display: flex;
     color: #ec5242;
     font-weight: bold;
+    font-size: 2rem;
   }
 
   /* hero -section */
