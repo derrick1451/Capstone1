@@ -1,29 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 # 📗 Table of Contents
 
@@ -44,10 +18,7 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Final Capstone Project] <a name="about-project"></a>
 
@@ -69,14 +40,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[created the speakers-cards dyamically with javascript]**
 - **[When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -119,8 +86,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -133,6 +98,14 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **responsive**
+- [ ] **flex-box**
+- [ ] **grid**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -141,11 +114,8 @@ Feel free to check the [issues page](https://github.com/derrick1451/Capstone1/is
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project please leave a ⭐️
 [loom video](https://www.loom.com/share/5d0ef5d63a0f4982bb8f66219d538aa7)
@@ -157,15 +127,11 @@ If you like this project please leave a ⭐️
 
 -I would like to thank Microverse for enabling me to do this capstone project
 -Hats off for anyone whose code was used here
--I have used Creative Commons design under this licence. Original design idea by Cindy Shin in Behance.
+-I have used Creative Commons design under [this](https://creativecommons.org/licenses/by-nc/4.0/legalcode) licence. Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
