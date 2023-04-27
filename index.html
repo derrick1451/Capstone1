@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/styles/style.css">
     <title>capstone</title>
 </head>
 <body>
@@ -18,26 +18,34 @@
             <li><a href="#">Logout</a></li>
         </ul></nav>
         <nav class="nav-bar">
-            <a class="d-logo" href="#index.html"><span class="logo-span">Y-</span>DEV</a>
+            <a class="d-logo" href="index.html"><span class="logo-span">Y-</span>DEV</a>
             <a href="#"><img class="humberger" src="/assets/menu.svg" alt="humberger"></a>
             <ul class="d-nav">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Program</a></li>
-                <li><a href="#">Join</a></li>
-                <li><a href="#">Sponsor</a></li>
-                <li><a href="#">News</a></li>
+                <li><a href="pages/about.html">About</a></li>
+                <li><a href="#program">Program</a></li>
+                <li><a href="#join">Join</a></li>
+                <li><a href="#sponsor">Sponsor</a></li>
+                <li><a href="#news">News</a></li>
             </ul>
             <button class="d-btn">cc campaign</button>
         </nav>
+        <ul class="mobile-nav">
+               <li><a class="nav-links" href="pages/about.html">About</a></li>
+                <li><a class="nav-links" href="#program">Program</a></li>
+                <li><a class="nav-links" href="#join">Join</a></li>
+                <li><a class="nav-links" href="#sponsor">Sponsor</a></li>
+                <li><a class="nav-links" href="#news">News</a></li>
+        </ul>
+        <div class="times">&times</div>
     </header>
-    <section class="hero">
+    <section id="join" class="hero">
         <p class="p-1">"Hello! Dev World"</p>
         <h1 class="h-1">YOUNG DEV'S GLOBAL SUMMIT UGANDA</h1>
         <p class="p-2">A joyful celebration of all young youth in the development industry through spreading love and sharing ideas about tech.</p>
         <h2 class="h-2">2023.23.04(WED) ~ 24(THURS)</h2>
         <P class="p-3">@ Global Dev World, Kampala,Uganda</P>
     </section>
-    <section class="main-program">
+    <section id="program" class="main-program">
         <div class="program-header">
             <h2>Main program</h2>
             <div class="line"></div>
@@ -72,7 +80,7 @@
         <h4 class="header-btn">join Young Dev Summit</h4>
         <p class="program">SEE THE WHOLE PROGRAM</p>
     </section>
-    <section class="featred-speakers">
+    <section id="news" class="featred-speakers">
         <div class="speaker-header">
             <h2>Featured speakers</h2>
             <div class="line"></div>
@@ -128,7 +136,7 @@
               </div>
             </div>
     </section>
-    <section class="partners">
+    <section id="sponsor" class="partners">
         <div class="partner-header">
             <h2>partners</h2>
             <div class="line"></div>
@@ -148,5 +156,6 @@
             <span>All Rights Reserved</span>
         </div>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
