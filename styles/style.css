@@ -100,6 +100,7 @@ a {
   color: #ec5242;
   font-size: 1.3rem;
   margin: 0.3rem 0;
+  font-weight: bolder;
 }
 
 .h-1 {
@@ -114,10 +115,12 @@ a {
 }
 
 .p-2 {
-  border: 1px solid rgb(215, 212, 212);
+  border: 1px solid #fff;
   padding: 0.7rem;
   margin: 1rem 0;
   color: #1f2937;
+  font-weight: bolder;
+  width: 60%;
 }
 
 .h-2 {
@@ -352,9 +355,9 @@ footer {
   .d-btn {
     display: flex;
     color: #ec5242;
-    border: 2px solid #ec5242;
+    border: 5px solid #ec5242;
     padding: 0.4rem 0.5rem;
-    margin-right: 30px;
+    margin-right: 70px;
     background-color: #fff;
     cursor: pointer;
   }
@@ -379,7 +382,9 @@ footer {
 
   .d-nav {
     display: flex;
-    gap: 1.8rem;
+    gap: 2.5rem;
+    padding: 1rem;
+    align-items: center;
   }
 
   .logo-span {
@@ -400,7 +405,7 @@ footer {
     height: 100vh;
     justify-content: center;
     flex-direction: column;
-    padding: 0 2rem 0 4rem;
+    padding: 0 2rem 0 8rem;
   }
 
   .h-1 {
@@ -409,7 +414,7 @@ footer {
   }
 
   .p-2 {
-    width: 60%;
+    width: 45%;
   }
 
   /* main program */

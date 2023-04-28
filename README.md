@@ -48,7 +48,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [coming soon]
+- [live demo](https://derrick1451.github.io/Capstone1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
