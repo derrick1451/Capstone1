@@ -81,7 +81,7 @@ a {
 
 .nav-bar {
   padding: 0.5rem 1.5rem;
-  background-image: url(/assets/background2.jpg);
+  background-image: url(../assets/background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -91,7 +91,7 @@ a {
   display: flex;
   flex-direction: column;
   padding: 2rem 1rem;
-  background-image: url(/assets/background2.jpg);
+  background-image: url(../assets/background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -106,7 +106,7 @@ a {
 .h-1 {
   font-size: 2rem;
   font-weight: bolder;
-  background-image: url(/assets/mobile.jpg);
+  background-image: url(../assets/mobile.jpg);
   color: transparent;
   background-size: cover;
   background-clip: border-box;
