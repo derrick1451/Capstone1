@@ -79,7 +79,7 @@ a {
 
 .nav-bar {
   padding: 0.5rem 1.5rem;
-  background-image: url(/assets/background2.jpg);
+  background-image: url(../assets/background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -89,7 +89,7 @@ a {
   display: flex;
   flex-direction: column;
   padding: 2rem 1rem;
-  background-image: url(/assets/background2.jpg);
+  background-image: url(../assets/background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   align-items: center;
@@ -210,7 +210,7 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/pastpic.jpg);
+  background-image: url(../assets/pastpic.jpg);
   background-size: cover;
   position: relative;
   isolation: isolate;
@@ -234,7 +234,7 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/pastpicimage2.jpg);
+  background-image: url(../assets/pastpicimage2.jpg);
   background-size: cover;
   position: relative;
   isolation: isolate;
