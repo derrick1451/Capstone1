@@ -109,6 +109,7 @@ a {
   font-weight: bolder;
   color: #ec5242;
   margin: 0 0.4rem;
+  width: 70%;
 }
 
 .p-2 {
@@ -116,10 +117,12 @@ a {
   padding: 0.9rem;
   margin: 1rem 0;
   color: #535559;
+  width: 70%;
 }
 
 .p-3 {
   color: #535559;
+  width: 50%;
 }
 
 .p-4 {
