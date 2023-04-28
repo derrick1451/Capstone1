@@ -118,11 +118,13 @@ Feel free to check the [issues page](https://github.com/derrick1451/Capstone1/is
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please leave a ⭐️
-[loom video](https://www.loom.com/share/5d0ef5d63a0f4982bb8f66219d538aa7)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Loom video
+-[loom video](https://www.loom.com/share/5d0ef5d63a0f4982bb8f66219d538aa7)
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 -I would like to thank Microverse for enabling me to do this capstone project
