@@ -397,6 +397,7 @@ footer {
   /* hero -section */
   .about-hero {
     display: flex;
+    height: 100vh;
     flex-direction: column;
     align-items: center;
     padding: 132px 1rem 0 4rem;
@@ -414,6 +415,7 @@ footer {
   .p-2 {
     width: 40%;
   }
+
   /* past container */
   .past-container {
     display: flex;
