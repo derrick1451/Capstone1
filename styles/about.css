@@ -414,10 +414,6 @@ footer {
   .p-2 {
     width: 40%;
   }
-  .p-4 {
-    margin-bottom: 6rem;
-  }
-
   /* past container */
   .past-container {
     display: flex;
