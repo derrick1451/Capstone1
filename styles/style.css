@@ -402,7 +402,7 @@ footer {
   /* hero section */
   .hero {
     display: flex;
-    height: calc(100*--vh);
+    height: 100svh;
     justify-content: center;
     flex-direction: column;
     padding: 0 2rem 0 8rem;
